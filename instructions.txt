@@ -1,0 +1,26 @@
+Required libraries for project_sql_DB.py file:
+Mysql.connector
+CSV (included in Python)
+Pandas
+matplotlib.pyplot
+
+
+Instructions for project_sql_DB.py file:
+
+1. Update the variable user with the correct username for your desired MySQL server
+2. Update the variable password with the password for this server
+3. Update the variable file_path with the correct path for the database 3.csv file in your directory
+4. Running the file in your desired IDE will bring you to the main menu with instructions on how to use the application
+
+
+
+Required libraries for project_mongo_DB.py file:
+Pymongo
+Pandas
+
+
+Instructions for project_mongo_DB.py file:
+
+1. Update the variable file_path with the correct file path for the database 3.csv file in your directory
+2. If you would like to use a different MongoClient than 'mongodb://localhost:27017/‘ , please update the variable client with your desired client path
+3. Running the file in your desired IDE will bring you to the main menu with instructions on how to use the application
